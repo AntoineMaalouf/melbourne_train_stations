@@ -1,0 +1,107 @@
+,STATION_NAME,BIKE_CAPACITY,Cages,Hoops,Locker,Other,Parkiteer
+0,albion,8,0,0,8,0,0
+1,altona,8,0,0,8,0,0
+2,ashburton,9,0,1,6,0,0
+3,auburn,6,0,0,6,0,0
+4,bayswater,46,0,1,0,0,1
+5,belgrave,26,0,0,4,0,1
+6,bentleigh,0,0,0,0,0,1
+7,berwick,41,0,0,15,0,1
+8,blackburn,22,0,1,10,0,0
+9,boronia,25,0,0,0,0,1
+10,box hill,10,0,0,10,0,0
+11,brighton beach,47,0,0,22,0,1
+12,broadmeadows,33,0,0,8,0,1
+13,camberwell,6,0,0,6,0,0
+14,cardinia road,21,1,0,0,0,0
+15,carrum,19,0,2,10,0,0
+16,caulfield,39,0,1,10,0,1
+17,chelsea,16,0,0,6,2,0
+18,cheltenham,41,0,0,16,0,1
+19,clayton,8,0,0,8,0,0
+20,clifton hill,26,0,0,0,0,1
+21,coburg,50,0,2,16,0,1
+22,craigieburn,6,0,0,6,0,0
+23,cranbourne,44,0,0,18,1,1
+24,croydon,29,0,0,4,0,1
+25,diggers rest,25,0,0,0,0,1
+26,east malvern,32,0,0,6,0,1
+27,elsternwick,9,0,1,4,0,0
+28,eltham,9,1,0,8,0,0
+29,epping,25,1,0,4,0,0
+30,essendon,22,0,1,12,0,0
+31,fairfield,12,0,0,12,0,0
+32,fawkner,26,0,0,0,0,1
+33,ferntree gully,47,0,0,21,0,1
+34,footscray,49,0,4,0,0,1
+35,frankston,74,0,1,16,1,2
+36,gardiner,29,0,1,0,0,1
+37,ginifer,42,0,4,0,0,1
+38,glen iris,6,0,0,6,0,0
+39,glen waverley,29,0,1,0,0,1
+40,glenferrie,8,0,0,8,0,0
+41,glenhuntly,6,0,0,6,0,0
+42,glenroy,25,1,0,0,0,0
+43,gowrie,4,0,0,4,0,0
+44,greensborough,34,0,0,8,0,1
+45,hallam,25,0,0,0,0,1
+46,hampton,5,0,0,5,0,0
+47,heatherdale,38,0,3,0,0,1
+48,heidelberg,37,0,1,6,0,1
+49,highett,26,0,0,0,0,1
+50,holmesglen,10,0,0,10,0,0
+51,hoppers crossing,48,0,0,0,0,1
+52,huntingdale,64,0,0,14,0,1
+53,ivanhoe,16,0,0,16,0,0
+54,jordanville,10,0,0,10,0,0
+55,lalor,12,0,1,4,0,0
+56,laverton,0,0,0,0,0,2
+57,lilydale,17,0,1,12,0,0
+58,lynbrook,21,1,0,0,0,0
+59,mckinnon,0,0,0,0,0,1
+60,mentone,12,0,1,8,0,0
+61,merlynston,8,0,0,8,0,0
+62,mitcham,44,0,1,1,0,0
+63,moorabbin,14,0,0,14,0,0
+64,mooroolbark,6,0,1,0,0,0
+65,mordialloc,20,0,0,20,0,0
+66,mount waverley,17,0,0,8,1,0
+67,narre warren,26,0,0,7,0,1
+68,newmarket,16,0,0,16,0,0
+69,newport,25,0,0,0,0,1
+70,noble park,23,0,1,18,0,0
+71,north williamstown,8,0,0,8,0,0
+72,nunawading,15,0,1,10,0,0
+73,oakleigh,47,0,1,16,0,1
+74,ormond,12,0,2,0,0,1
+75,pakenham,30,0,1,0,0,1
+76,prahran,34,0,0,8,0,1
+77,preston,32,0,1,0,0,1
+78,reservoir,38,0,0,12,0,1
+79,ringwood,28,0,2,0,0,1
+80,ringwood east,8,0,0,8,0,0
+81,ripponlea,4,0,0,4,0,0
+82,roxburgh park,25,0,0,0,0,1
+83,sandown park,8,0,0,8,0,0
+84,sandringham,6,1,0,0,0,1
+85,seaford,39,0,1,8,0,1
+86,south morang,21,1,0,0,0,0
+87,southland,12,0,1,0,0,0
+88,springvale,30,0,2,0,0,1
+89,st albans,42,0,4,0,0,1
+90,sunbury,25,0,0,0,0,1
+91,sunshine,56,0,2,0,0,2
+92,surrey hills,49,0,1,12,0,1
+93,syndal,26,0,0,0,1,1
+94,thomastown,25,1,0,4,0,0
+95,tooronga,8,0,0,8,0,0
+96,tottenham,5,0,1,0,0,0
+97,upper ferntree gully,8,0,0,8,0,0
+98,watergardens,61,1,1,0,0,1
+99,watsonia,35,0,1,4,0,1
+100,werribee,59,1,0,0,1,1
+101,west footscray,42,0,2,0,0,2
+102,westall,45,0,3,16,0,1
+103,williams landing,46,0,0,0,0,1
+104,williamstown,4,0,0,4,0,0
+105,yarraville,22,0,0,0,0,1
