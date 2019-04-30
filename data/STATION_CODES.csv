@@ -1,0 +1,223 @@
+,STATION_NAME,STATION_CODE
+0,aircraft,ACF
+1,alamein,ALM
+2,albion,ALB
+3,alphington,ALP
+4,altona,ALT
+5,anstey,ASY
+6,armadale,ARM
+7,ascot vale,ASV
+8,ashburton,ASH
+9,aspendale,ASP
+10,auburn,AUB
+11,balaclava,BCV
+12,batman,BAT
+13,baxter,BXR
+14,bayswater,BAY
+15,beaconsfield,BFD
+16,belgrave,BEG
+17,bell,BEL
+18,bentleigh,BEN
+19,berwick,BEW
+20,bittern,BIT
+21,blackburn,BBN
+22,bonbeach,BON
+23,boronia,BOR
+24,box hill,BOX
+25,brighton beach,BBH
+26,broadmeadows,BMS
+27,brunswick,BWK
+28,burnley,BLY
+29,burwood,BWD
+30,camberwell,CAM
+31,canterbury,CBY
+32,cardinia road,CDA
+33,carnegie,CNE
+34,carrum,CAR
+35,caulfield,CFD
+36,chatham,CHM
+37,chelsea,CSA
+38,cheltenham,CTM
+39,clayton,CLA
+40,clifton hill,CHL
+41,coburg,COB
+42,collingwood,CWD
+43,coolaroo,CLO
+44,craigieburn,CGB
+45,cranbourne,CBE
+46,crib point,CPT
+47,croxton,CXT
+48,croydon,CDN
+49,dandenong,DNG
+50,darebin,DBN
+51,darling,DLG
+52,dennis,DEN
+53,diamond creek,DCK
+54,diggers rest,DIT
+55,eaglemont,EGT
+56,east camberwell,ECM
+57,east malvern,EMV
+58,east richmond,ERM
+59,edithvale,EDI
+60,elsternwick,ELS
+61,eltham,ELT
+62,epping,EPP
+63,essendon,ESD
+64,fairfield,FFD
+65,fawkner,FAK
+66,ferntree gully,FTG
+67,flagstaff,FGS
+68,flemington bridge,FBD
+69,flemington racecourse,RCE
+70,flinders street,FSS
+71,footscray,FSY
+72,frankston,FKN
+73,gardenvale,GVE
+74,gardiner,GAR
+75,ginifer,GIN
+76,glen iris,GIR
+77,glen waverley,GWY
+78,glenbervie,GBV
+79,glenferrie,GFE
+80,glenhuntly,GHY
+81,glenroy,GRY
+82,gowrie,GOW
+83,greensborough,GRN
+84,hallam,HLM
+85,hampton,HAM
+86,hartwell,HWL
+87,hastings,HST
+88,hawksburn,HKN
+89,hawkstowe,
+90,hawthorn,HAW
+91,heatherdale,HTD
+92,heathmont,HMT
+93,heidelberg,HDB
+94,heyington,HEY
+95,highett,HIG
+96,holmesglen,HOL
+97,hoppers crossing,HCG
+98,hughesdale,HUG
+99,huntingdale,HUN
+100,hurstbridge,HBE
+101,ivanhoe,IVA
+102,jacana,JAC
+103,jewell,JWL
+104,jolimont,JLI
+105,jordanville,JOR
+106,kananook,KAN
+107,keilor plains,KPL
+108,kensington,KEN
+109,keon park,KPK
+110,kooyong,KYG
+111,laburnum,LAB
+112,lalor,LAL
+113,laverton,LAV
+114,leawarra,LWA
+115,lilydale,LIL
+116,lynbrook,LBK
+117,macaulay,MAC
+118,macleod,MCD
+119,malvern,MAL
+120,mckinnon,MCK
+121,melbourne central,MCE
+122,mentone,MEN
+123,merinda park,MPK
+124,merlynston,MYN
+125,mernda,
+126,merri,MER
+127,middle brighton,MBN
+128,middle footscray,MFY
+129,middle gorge,
+130,mitcham,MCH
+131,mont albert,MAB
+132,montmorency,MMY
+133,moonee ponds,MPD
+134,moorabbin,MRN
+135,mooroolbark,MLK
+136,mordialloc,MOR
+137,moreland,MLD
+138,morradoo,MRO
+139,mount waverley,MWY
+140,murrumbeena,MRB
+141,narre warren,NWA
+142,newmarket,NKT
+143,newport,NPT
+144,noble park,NPK
+145,north brighton,NBN
+146,north melbourne,NME
+147,north richmond,NRM
+148,north williamstown,NWN
+149,northcote,NCE
+150,nunawading,NWG
+151,oak park,OKP
+152,oakleigh,OAK
+153,officer,OFC
+154,ormond,OMD
+155,pakenham,PKM
+156,parkdale,PKD
+157,parliament,PAR
+158,pascoe vale,PVL
+159,patterson,PAT
+160,prahran,PRA
+161,preston,PRE
+162,regent,REG
+163,reservoir,RES
+164,richmond,RMD
+165,ringwood,RWD
+166,ringwood east,RWE
+167,ripponlea,RIP
+168,riversdale,RIV
+169,rosanna,ROS
+170,roxburgh park,RXP
+171,royal park,RPK
+172,rushall,RUS
+173,ruthven,RUT
+174,sandown park,SNP
+175,sandringham,SHM
+176,seaford,SEA
+177,seaholme,SHE
+178,seddon,SEN
+179,showgrounds,SGS
+180,somerville,SVE
+181,south kensington,SKN
+182,south morang,SMG
+183,south yarra,SYR
+184,southern cross,SSS
+185,southland,SOU
+186,spotswood,SPT
+187,springvale,SPG
+188,st albans,SAB
+189,stony point,STY
+190,strathmore,SME
+191,sunbury,SUY
+192,sunshine,SUN
+193,surrey hills,SHL
+194,syndal,SYN
+195,tecoma,TCM
+196,thomastown,TSN
+197,thornbury,TBY
+198,toorak,TOR
+199,tooronga,TGA
+200,tottenham,TOT
+201,tyabb,TAB
+202,upfield,UFD
+203,upper ferntree gully,UFG
+204,upwey,UPW
+205,victoria park,VPK
+206,watergardens,WGS
+207,watsonia,WAT
+208,wattle glen,WTT
+209,werribee,WER
+210,west footscray,WFY
+211,west richmond,WRM
+212,westall,WTL
+213,westgarth,WTG
+214,westona,WTO
+215,williams landing,WLD
+216,williamstown,WIL
+217,williamstown beach,WBH
+218,willison,WSN
+219,windsor,WIN
+220,yarraman,YMN
+221,yarraville,YVE

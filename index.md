@@ -9,22 +9,24 @@ Rents around popular stations such as Melbourne Central and Southern Cross stati
 
 ### 2.	Data
 Several Data sources will be used to analyze the current situation of train stations along the lines serving the Melbourne CBD along with established businesses around them
-* Train Station Geolocations 
+* Train Station Geolocations and data
     * Provider: Department of Transport, Victoria, Australia
-    * Format: Geojson file
+    * Format: GeoJSON
     * License: Creative Commons Attribution (CC BY 4.0)
-    * Usage: This dataset is used to determine the geographical coordinates of current train stations and use this data to discover nearby businesses and travel times.
+    * Usage: Dataset contains several attributes that includes station names, location, train lines serving station, parking, and bike storage capacity
 
 * Train Station Patronage
     * Provider: Public Transport Victoria
 	* Format: Excel sheet
 	* License: Creative Commons Attribution (CC BY 4.0)
-	* Usage: Extract the number of train lines serving each train station and the number passengers boarding.
+	* Usage: Includes the average number of passengers boarding each station at different times during weekdays and total riders during weekends. The data also includes the results of a survey about the travel purposes and other modes of transports used during the same journey..
+	
 *	Existing establishments and their current ratings
 	* Provider: Foursquare
 	* Format: API
 	* License: Proprietary, Licensed according to the Foursquare Terms and Conditions
 	* Usage: Determine current establishment within walking distance of the stations and their current ratings
+	
 *	Travel times and road traffic data
 	* Provider: Mapbox
 	* Format: API
