@@ -1,0 +1,32 @@
+﻿type,category,id
+food truck,food,4bf58dd8d48988d1cb941735
+café,food,4bf58dd8d48988d16d941735
+coffee shop,food,4bf58dd8d48988d1e0931735
+fast food,food,4bf58dd8d48988d16e941735
+burger joint,food,4bf58dd8d48988d16c941735
+donut shop,food,4bf58dd8d48988d148941735
+fish and chips,food,4edd64a0c7ddd24ca188df1a
+food court,food,4bf58dd8d48988d120951735
+fried chicken joint,food,4d4ae6fc7a7b7dea34424761
+hot dog,food,4bf58dd8d48988d16f941735
+movies,entertainment,4bf58dd8d48988d17f941735
+museum,entertainment,4bf58dd8d48988d181941735
+stadium,entertainment,4bf58dd8d48988d184941735
+university,school,4d4b7105d754a06372d81259
+bagel shop,food,4bf58dd8d48988d179941735
+bakery,food,4bf58dd8d48988d16a941735
+breakfast,food,4bf58dd8d48988d143941735
+cafeteria,food,4bf58dd8d48988d128941735
+falafel,food,4bf58dd8d48988d10b941735
+food stand,food,56aa371be4b08b9a8d57350b
+gastro pub,food,4bf58dd8d48988d155941735
+irish pub,food,52e81612bcbc57f1066b7a06
+kebab,food,5283c7b4e4b094cb91ec88d7
+shawarma,food,5bae9231bedf3950379f89e4
+pizza,food,4bf58dd8d48988d1ca941735
+bar,nightlife,4bf58dd8d48988d116941735
+nightclub,nightlife,4bf58dd8d48988d11f941735
+nighlife,nightlife,4d4b7105d754a06376d81259
+shipping mall,shopping,4bf58dd8d48988d1fd941735
+convinience store,shopping,4d954b0ea243a5684a65b473
+shopping,shopping,4d4b7105d754a06378d81259
